@@ -12,6 +12,14 @@
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "node-sass": "^4.10.0"
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewcybr/Andrew-Rasmus-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drewcybr/Andrew-Rasmus-Portfolio/issues"
   }
 }
